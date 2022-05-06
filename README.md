@@ -1,7 +1,7 @@
 # ydammatsu
 I'm Yuta Dammatsu, a Japanese software engineer.
 
-## Favorite programming languages
+## Programming Languages
 - Go
-- TypeScript
 - Ruby
+- TypeScript
