@@ -1,7 +1,12 @@
 # ydammatsu
 I'm Yuta Dammatsu, a Japanese software engineer.
 
-## Programming Languages
-- Go
+## Commonly use
 - Ruby
+  - Rails
 - TypeScript
+  - React
+- Go
+- AWS
+  - VPC, EC2, S3, RDS, ECS, Batch, CloudWatch, Amplify
+- Heroku
